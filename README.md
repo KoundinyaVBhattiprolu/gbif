@@ -1,10 +1,3 @@
----
-title: "Read me"
-output:
-  html_document:
-    theme: united
----
-
 # 1. Project Overview:
 
 The app is designed to identify which species are observed in a specific location on the map. we can also observe which months have lot of observations. This data may lead the user to know when to travel to a particular location to see a particular animal or avoid it completely.
